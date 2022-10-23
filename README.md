@@ -8,7 +8,7 @@ I am currently in secondary/high school studying Computer Science, Economics, an
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
-![GoLang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=GoLang)
+![GoLang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
