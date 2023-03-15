@@ -12,6 +12,8 @@ I am currently in secondary/high school studying Computer Science, Economics, an
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/527589088602357770)](https://discord.com/users/527589088602357770)
+
 
 <p align="center">
 
