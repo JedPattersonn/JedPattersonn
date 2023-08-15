@@ -1,7 +1,5 @@
 ## Hi, I am Jed
 
-I am currently in secondary/high school studying Computer Science, Economics, and Business.
-
 ## ⚡ Technologies
 
 ### Languages and Tools :
